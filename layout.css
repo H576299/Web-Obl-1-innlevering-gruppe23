@@ -1,0 +1,46 @@
+.main , .maintd , .maintable , .maintr #name{
+    max-width: 100%;
+    margin: auto;
+    background: lightgray;
+    padding: 10px;
+    align-content: center;
+    text-align: center;
+}
+
+body {
+    background: lightgray;
+}
+
+
+.pb {
+    border-radius: 30%;
+    padding: 10px;
+}
+
+#face {
+    border-radius: 50%
+}
+
+.info {
+    max-width: 320px;
+    text-align: left;
+}
+
+
+
+p {
+    text-align: left;
+}
+
+#forsidebilde {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.hovedinfo {
+    max-width: 695px;
+    margin-left: auto;
+    margin-right: auto;
+}
